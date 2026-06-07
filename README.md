@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! I'm Sufiy! 👋
 
-<!--
-**sufiytv-dev/sufiytv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a systems programmer, language designer, and entrepreneur. I build high-integrity tools for the future of computation and invest in the next generation of disruptive technology.
 
-Here are some ideas to get you started:
+### 🚀 Technical Focus
+**[Voxlang](https://github.com/YOUR_USERNAME/voxlang)** – Verified Heterogeneous Systems Programming.
+* A statically typed language built from the ground up for memory safety, formal verification (Z3), and first-class GPU-compute integration.
+* **Core Stack**: Rust, LLVM, Z3, and GPU-Compute (HIP/CUDA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Ventures
+* **[The Big Steppers](https://example.com)**: Co-founder of a competitive esports organization dedicated to excellence and performance.
+* **[PukkaVC](https://example.com)**: Owner & Investor. Focused on identifying and scaling early-stage innovation.
+
+### 🛠 Tech Stack & Interests
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-%23414141.svg?style=for-the-badge&logo=llvm&logoColor=white)
+![Z3](https://img.shields.io/badge/Z3-Prover-%23000000.svg?style=for-the-badge&logo=z3&logoColor=white)
+
+* **Interests**: Language Design, Formal Verification, Systems Engineering, Venture Capital, Competitive Strategy.
+
+### 📧 Contact
+* For technical inquiries or Voxlang-related issues, please contact me via: **264719186+sufiytv-dev@users.noreply.github.com**
+* I review all project-related feedback to ensure Voxlang remains safe, maintainable, and robust.
