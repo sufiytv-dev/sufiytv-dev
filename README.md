@@ -3,13 +3,13 @@
 I am a systems programmer, language designer, and entrepreneur. I build high-integrity tools for the future of computation and invest in the next generation of disruptive technology.
 
 ### 🚀 Technical Focus
-**[Voxlang](https://github.com/YOUR_USERNAME/voxlang)** – Verified Heterogeneous Systems Programming.
+**[Voxlang](https://github.com/sufiytv-dev/voxlang)** – Verified Heterogeneous Systems Programming.
 * A statically typed language built from the ground up for memory safety, formal verification (Z3), and first-class GPU-compute integration.
 * **Core Stack**: Rust, LLVM, Z3, and GPU-Compute (HIP/CUDA).
 
 ### 📈 Ventures
-* **[The Big Steppers](https://example.com)**: Co-founder of a competitive esports organization dedicated to excellence and performance.
-* **[PukkaVC](https://example.com)**: Owner & Investor. Focused on identifying and scaling early-stage innovation.
+* **[The Big Steppers](https://x.com/bigsteppersgg)**: Co-founder of a competitive esports organization dedicated to excellence and performance.
+* **[PukkaVC](https://PukkaVC.com)**: Owner & Investor. Focused on identifying and scaling early-stage innovation.
 
 ### 🛠 Tech Stack & Interests
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
