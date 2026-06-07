@@ -10,7 +10,7 @@ I am a systems programmer, language designer, and entrepreneur. I build high-int
 ### 📈 Ventures
 * **[The Big Steppers](https://x.com/bigsteppersgg)**: Co-founder of a competitive esports organization dedicated to excellence and performance.
 * **[PukkaVC](https://PukkaVC.com)**: Owner & Investor. Focused on identifying and scaling early-stage innovation.
-
+* eventually Aimee-8b
 ### 🛠 Tech Stack & Interests
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM-%23414141.svg?style=for-the-badge&logo=llvm&logoColor=white)
